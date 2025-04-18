@@ -84,7 +84,7 @@ Make sure you have the following installed:
 To execute the model, run the training script:
 
 ```bash
-python 2022101096_LM3.py
+python 2022102067_LM3.py
 ```
 
 For execution, maximum window size is assumed to be 40
